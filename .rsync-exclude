@@ -1,0 +1,5 @@
+/.vscode
+/Makefile
+/README.md
+/.rsync-exclude
+/.git
